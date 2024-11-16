@@ -1,5 +1,6 @@
 Desafio Desenvolvido no Bootcamp de Engenharia de Dados da DIO.
 
+# Desafio 1
 ## Introdução
 
 O desafio consistia em realizar uma análise de dados utilizando os conceitos aprendidos no módulo de fundamento de Data Analytics. Envolvia Conceitos como:
@@ -36,3 +37,15 @@ A página foi criada para apresentar alguns dados referentes aos países e para 
 Página criada para realizar a análise referente aos três principais produtos em relação a vendas. O objetivo principal aqui foi explorar os conceitos de Top N.
 
 <img src="Imagens/Top 3.png" alt="">
+
+
+# Desafio 2:
+O desafio final da formação consistia em aproveitar o relatório já criado e desenvolver gráficos com uso de paramêtros.O problema é que diferente dos botões, os paramêtros parecem não permitir muita personalização. Foram substituídos na página principal e na página de países gráficos com paramêtros. 
+
+
+Principal:
+<img src="Imagens/Principal2.png" alt="">
+
+
+Países:
+<img src="Imagens/Países 2.png" alt="">
